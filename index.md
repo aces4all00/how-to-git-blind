@@ -1,0 +1,1 @@
+https://github.com/git-guides is a fairly screen reader friendly guide to using git from the terminal/command-line/shell. I typically advise learning to use it from the terminal and getting comfortable using it before trying to use gui client 
